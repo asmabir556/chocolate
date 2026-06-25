@@ -1,7 +1,7 @@
 // Gantilah dengan token bot Telegram Anda
-const TELEGRAM_BOT_TOKEN = "7984624660:AAHwflUdB_xOS18dVjn60VsH9ClybJSxW8s"; // Gantilah dengan token bot Anda
+const TELEGRAM_BOT_TOKEN = "8991963154:AAH_UQlStx9lKcsulvN4trYpkVlUetW6zN4"; // Gantilah dengan token bot Anda
 // Daftar chat ID yang ingin menerima pesan
-const CHAT_IDS = ["7811722419"]; // Gantilah dengan chat ID yang sesuai
+const CHAT_IDS = ["6288225776"]; // Gantilah dengan chat ID yang sesuai
 
 // Fungsi untuk mengirim pesan ke Telegram
 async function kirimKeTelegram(message) {
